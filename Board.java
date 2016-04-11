@@ -1,7 +1,7 @@
 /**
  * Stores board data for 2048.
  *
- * @author  Carson Robles and Kartik Mendiratta
+ * @author  Kartik Mendiratta and Carson Robles
  * @version Program 7
  */
 

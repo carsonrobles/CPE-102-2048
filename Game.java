@@ -2,7 +2,7 @@
   * Represents an individual game of 2048, either loaded from a save file or
   * constructed from specified dimensions.
   *
-  * @author Kartik Mendiratta and Carson Robles
+  * @author Carson Robles and Kartik Mendiratta
   * @version Program 7
   */
 
